@@ -1,0 +1,23 @@
+table{
+    border-radius: 5px;
+    padding: 10px;
+    background: rgb(49, 8, 8);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+table input{
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+
+.gonder{
+    padding: 5px;
+    transition: 1s;
+}
+.gonder:hover{
+    background-color: rgb(175, 12, 12);
+    color: #fff;
+}

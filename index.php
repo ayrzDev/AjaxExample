@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.js"></script>
+    <script src="assets/js/javascript.js"></script>
+</head>
+
+<body>
+    <div class="frs">
+        <table>
+            <td>
+                <h2 style="color:#fff">Ajax Ex</h2>
+            </td>
+            </tr>
+            <tr>
+                <td style="color:#fff">Name:</td>
+                <td><input type="text" name="name"></td>
+            </tr>
+            <tr>
+                <td style="color:#fff">Email:</td>
+                <td><input type="email" name="email"></td>
+            </tr>
+            <tr>
+                <td style="color:#fff">Password:</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td><input type="submit" class="gonder"></td>
+            </tr>
+        </table>
+    </div>
+    <div class="process">
+
+    </div>
+
+</body>
+
+</html>
